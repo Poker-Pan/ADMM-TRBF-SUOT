@@ -1,2 +1,2 @@
 # ADMM-RBF-FD-TPM-SUOT
-OK
+Code for " unbalanced optimal transport on surfaces".
